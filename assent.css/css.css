@@ -38,6 +38,9 @@ font-size: 80px;
   border-radius: 100px;
   text-align: center;
 }
+.pgp{
+  align-self: baseline;
+}
 .timeline {
   position: relative;
   padding:4px 0 0 0;
@@ -325,3 +328,4 @@ height: 200px;
 }
 @media only screen and (max-width:480px){.main-timeline2 .title{font-size:18px}
 }
+
